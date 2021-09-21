@@ -6,6 +6,7 @@ public class Find_Alphabet {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String word = sc.next();
+		sc.close();
 		int	i = 0;
 		char alpha = 'a';
 		

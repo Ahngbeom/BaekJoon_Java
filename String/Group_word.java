@@ -54,5 +54,6 @@ public class Group_word {
 		}
 		
 		System.out.println(gw_cnt);
+		sc.close();
 	}
 }

@@ -5,6 +5,7 @@ public class Dial_time {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String word = sc.next();
+		sc.close();
 		int time = 0;
 		int subtrahend = 59;
 		

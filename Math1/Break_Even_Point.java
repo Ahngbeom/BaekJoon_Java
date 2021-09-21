@@ -14,5 +14,6 @@ public class Break_Even_Point {
 		} else {
 			System.out.println(Math.abs(a / (b - c)) + 1);
 		}
+		sc.close();
 	}
 }

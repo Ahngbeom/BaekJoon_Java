@@ -18,6 +18,7 @@ public class Fibonacci {
 		Fibonacci fibo = new Fibonacci();
 		Scanner sc = new Scanner(System.in);
 		System.out.println(fibo.fibonacci(sc.nextInt()));
+		sc.close();
 	}
 
 }

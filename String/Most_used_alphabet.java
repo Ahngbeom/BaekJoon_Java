@@ -83,5 +83,7 @@ public class Most_used_alphabet {
 			System.out.println(used.get(max_idx));
 		else
 			System.out.println("?");
+		
+		sc.close();
 	}
 }

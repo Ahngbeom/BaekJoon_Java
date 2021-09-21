@@ -29,5 +29,6 @@ public class Repeat_String {
 			i++;
 			System.out.println();
 		}
+		sc.close();
 	}
 }

@@ -19,6 +19,7 @@ public class Plus_A_and_B_Infinity {
 			
 			System.out.println(a + b);
 		}
+		sc.close();
 	}
 	
 	public void Using_BufferedReader() throws IOException {

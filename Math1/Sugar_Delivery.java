@@ -21,5 +21,6 @@ public class Sugar_Delivery {
 			i++;
 		}
 		System.out.println(min);
+		sc.close();
 	}
 }

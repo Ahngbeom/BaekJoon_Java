@@ -6,6 +6,7 @@ public class Croatia_Alphabet {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String msg = sc.nextLine();
+		sc.close();
 		String[] croatia_alpha = { "c=", "c-", "dz=", "d-", "lj", "nj", "s=", "z=" };
 		String[] temp;
 		

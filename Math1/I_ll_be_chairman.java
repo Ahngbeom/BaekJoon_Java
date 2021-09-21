@@ -41,5 +41,6 @@ public class I_ll_be_chairman {
 			}
 			System.out.println(arr[k][n - 1]);
 		}
+		sc.close();
 	}
 }

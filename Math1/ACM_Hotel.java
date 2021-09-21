@@ -11,7 +11,8 @@ public class ACM_Hotel {
 		while (test_case-- > 0)
 		{
 			int h = sc.nextInt();
-			int w = sc.nextInt();
+			// int w = sc.nextInt();
+			sc.nextInt();
 			int n = sc.nextInt();
 			
 			if (h <= n) {
@@ -23,5 +24,6 @@ public class ACM_Hotel {
 			else
 				System.out.println((n * 100) + 1);
 		}
+		sc.close();
 	}
 }

@@ -29,6 +29,7 @@ public class Turret {
 				System.out.println(0);
 			}
 		}
+		sc.close();
 	}
 
 }

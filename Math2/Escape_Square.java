@@ -12,6 +12,7 @@ public class Escape_Square {
 		int b_y = sc.nextInt();
 		int c_x = sc.nextInt();
 		int c_y = sc.nextInt();
+		sc.close();
 		
 		if (a_x == b_x) {
 			System.out.print(c_x + " ");

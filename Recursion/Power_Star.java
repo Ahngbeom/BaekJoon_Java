@@ -42,5 +42,6 @@ public class Power_Star {
 		ps.put_star(0, 0, 3);
 		ps.put_star(0, 0, 9);
 		ps.put_star(0, 0, 27);
+		sc.close();
 	}
 }

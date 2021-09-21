@@ -40,5 +40,6 @@ public class Sum_BigNumber {
 			result = String.join("", "1", result);
 		}
 		System.out.println(result);
+		sc.close();
 	}
 }

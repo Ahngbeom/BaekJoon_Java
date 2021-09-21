@@ -34,6 +34,7 @@ public class Bertrands_Postulate {
 			}
 			System.out.println(count);
 		}
+		sc.close();
 	}
 
 }

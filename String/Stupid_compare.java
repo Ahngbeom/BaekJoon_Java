@@ -28,5 +28,7 @@ public class Stupid_compare {
 			System.out.println(num1);
 		else
 			System.out.println(num2);
+		
+		sc.close();
 	}
 }

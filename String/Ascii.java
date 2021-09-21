@@ -6,5 +6,6 @@ public class Ascii {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println((int)sc.next().charAt(0));
+		sc.close();
 	}
 }

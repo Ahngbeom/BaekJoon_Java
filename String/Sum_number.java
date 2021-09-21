@@ -14,5 +14,6 @@ public class Sum_number {
 			result += str_numbers.charAt(count) - 48;
 		}
 		System.out.println(result);
+		sc.close();
 	}
 }

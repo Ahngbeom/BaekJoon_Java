@@ -13,6 +13,7 @@ public class Honeycomb {
 			limit += (6 * i++);
 		}
 		System.out.println(i);
+		sc.close();
 	}
 
 }

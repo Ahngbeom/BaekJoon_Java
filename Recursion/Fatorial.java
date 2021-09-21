@@ -19,6 +19,7 @@ public class Fatorial {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println(rc.factorial(sc.nextInt()));
+		sc.close();
 	}
 
 }

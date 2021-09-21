@@ -34,6 +34,7 @@ public class Alpha_Centauri {
 					break;
 			}
 			System.out.println(count);
+			sc.close();
 		}
 	}
 }

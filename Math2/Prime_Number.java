@@ -24,6 +24,7 @@ public class Prime_Number {
 			}
 		}
 		System.out.println(count);
+		sc.close();
 	}
 
 }

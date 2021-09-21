@@ -67,9 +67,9 @@ public class Goldbach {
 			}
 			System.out.println(a + " " + b);
 //			long end = System.currentTimeMillis();
-//			System.out.println("¼öÇà½Ã°£: " + (double) ((end - start) / 1000.0) + " sec");
+//			System.out.println("ìˆ˜í–‰ì‹œê°„: " + (double) ((end - start) / 1000.0) + " sec");
 		}
-		
+		sc.close();
 	}
 
 }

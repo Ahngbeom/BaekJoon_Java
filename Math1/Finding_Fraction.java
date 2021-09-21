@@ -52,7 +52,8 @@ public class Finding_Fraction {
 			}
 		}
 		System.out.println(numerator + "/" + denominator);
+		sc.close();
 		long end = System.currentTimeMillis();
-		System.out.println("¼öÇà½Ã°£: " + (double)((end - start) / 10000.0) + " ms");
+		System.out.println("ìˆ˜í–‰ì‹œê°„ : " + (double)((end - start) / 10000.0) + " ms");
 	}
 }

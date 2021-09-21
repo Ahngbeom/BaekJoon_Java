@@ -1,6 +1,5 @@
 package Math2;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Prime_Number3 {
@@ -10,6 +9,7 @@ public class Prime_Number3 {
 		Scanner sc = new Scanner(System.in);
 		int m = sc.nextInt();
 		int n = sc.nextInt();
+		sc.close();
 
 		if (m == 1)
 			m++;
@@ -27,6 +27,6 @@ public class Prime_Number3 {
 		}
 
 		long end = System.currentTimeMillis();
-		System.out.println("¼öÇà½Ã°£: " + (double) ((end - start) / 1000.0) + " sec");
+		System.out.println("ìˆ˜í–‰ì‹œê°„: " + (double) ((end - start) / 1000.0) + " sec");
 	}
 }

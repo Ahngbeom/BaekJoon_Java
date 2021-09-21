@@ -13,9 +13,9 @@ public class Snail {
 		int v = sc.nextInt();
 		
 		System.out.println((v - a) / (a - b) * (a - b) + a < v ? (v - a) / (a - b) + 2 : (v - a) / (a - b) + 1);
-		
+		sc.close();
 		long end = System.currentTimeMillis();
-		System.out.println("¼öÇà½Ã°£: " + (double)((end - start) / 10000.0) + " ms");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½Ã°ï¿½: " + (double)((end - start) / 10000.0) + " ms");
 	}
 
 }

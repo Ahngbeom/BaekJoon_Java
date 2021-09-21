@@ -9,6 +9,8 @@ public class Prime_Number2 {
 		int m = sc.nextInt();
 		int n = sc.nextInt();
 
+		sc.close();
+		
 		int min = -1;
 		int sum = 0;
 
